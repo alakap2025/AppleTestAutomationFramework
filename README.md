@@ -67,3 +67,16 @@ After execution, ExtentReports HTML report will be generated under:
 
 Open the report in a browser to see detailed test results with screenshots (on failure).
 
+
+**Benefits of this Framework**
+
+Reusable: Page Object Model for maintainability
+
+Scalable: JSON-driven locators & test data
+
+Flexible: Cross-browser & parallel execution
+
+Extensible: Can be easily extended for API Testing
+
+CI/CD Ready: Supports Jenkins/GitHub Actions pipelines
+
