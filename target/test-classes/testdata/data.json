@@ -1,0 +1,16 @@
+{
+
+
+  "searchTests": [
+    {
+      "searchTerm": "MacBook Pro",
+      "expectedTitle": "MacBook Pro - Apple"
+    },
+    {
+      "searchTerm": "iPhone 16",
+      "expectedTitle": "iPhone 16 - Apple"
+    }
+  ]
+
+
+}

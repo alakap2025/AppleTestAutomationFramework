@@ -1,0 +1,56 @@
+{
+  "appleLogo": {
+    "type": "xpath",
+    "value": "//a[@class='globalnav-link globalnav-link-apple']"
+  },
+  "macLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='mac']"
+  },
+  "iPadLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='ipad']"
+  },
+  "iPhoneLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='iphone']"
+  },
+  "watchLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='watch']"
+  },
+  "airpodsLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='airpods']"
+  },
+  "tvHomeLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='tv & home']"
+  },
+  "entertainmentLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='entertainment']"
+  },
+  "supportLink": {
+    "type": "xpath",
+    "value": "//a[@data-analytics-title='support']"
+  },
+  "searchButton": {
+    "type": "xpath",
+    "value": "//a[@aria-label='Search apple.com']"
+  },
+
+  "searchInput": {
+    "type": "xpath",
+    "value": "//input[@class='globalnav-searchfield-input']"
+  },
+  "shoppingBag": {
+    "type": "xpath",
+    "value": "//a[@aria-label='Shopping Bag']"
+  },
+
+  "iPhone16": {
+    "type": "xpath",
+    "value": "//a[data-analytics-title='iphone 16']"
+  }
+}
